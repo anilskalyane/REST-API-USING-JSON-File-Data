@@ -1,1 +1,0 @@
-{"Users":{"id":"user1","roles":["role1","role3"]},"Roles":[{"id":"role1","permissions":["perm1","perm5"]},{"id":"role3","permissions":["perm6","perm7"]}],"Permissions":[{"id":"perm1","name":"Can check balance"},{"id":"perm5","name":"Can deposit"},{"id":"perm6","name":"Can transfer"},{"id":"perm7","name":"Can withdraw"}]}
